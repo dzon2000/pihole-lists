@@ -1,0 +1,10 @@
+# Pi-hole blocked domains
+
+0.0.0.0 astra9dlya10.com
+0.0.0.0 recyclesubsidedplight.com
+0.0.0.0 proveexclusionaye.com
+0.0.0.0 remarketingpixel.com
+0.0.0.0 r.remarketingpixel.com
+0.0.0.0 deploy.mopinion.com
+0.0.0.0 newsubscribes.com
+0.0.0.0 dgafgadsgkjg.top
