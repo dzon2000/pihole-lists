@@ -8,3 +8,10 @@
 0.0.0.0 deploy.mopinion.com
 0.0.0.0 newsubscribes.com
 0.0.0.0 dgafgadsgkjg.top
+0.0.0.0 delightfulold.com
+0.0.0.0 femininefurrow.com
+0.0.0.0 guffawdecipher.com
+0.0.0.0 saturdayloathe.com
+0.0.0.0 preparedtennismissionary.com
+0.0.0.0 oughtbuilding.com
+0.0.0.0 selectserialcage.com
